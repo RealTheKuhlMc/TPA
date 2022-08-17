@@ -1,0 +1,40 @@
+prefix: "§6§lTPA §r§7» "
+
+no.perms: "§cYou dont have Permission to use this command"
+no.player: "§cPls use this command ingame"
+target.notonline: "§cThe Specified player is not online"
+
+expiration.time: 30 #in seconds
+
+#tpa
+tpa.usage: "§cuse: §e/tpa <player name>"
+tpa.succes: "§aYou have successfully sent a tpa to §e{player_name}."
+tpa.receive: "§aYou have received a tpa from §e{player_name}."
+
+#tpahere
+tpahere.usage: "§cuse: §e/tpahere <player name>"
+tpahere.succes: "§aYou have successfully sent a tpahere to §e{player_name}."
+tpahere.receive: "§aYou have received a tpahere from §e{player_name}."
+
+#tpadeny
+tpadeny.usage: "§cuse: §e/tpadeny <player name>"
+tpadeny.notpa: "§cYou have no tpa from §e{player_name}"
+tpadeny.succes: "§aYou have successfully rejected the tpa from §e{player_name}"
+tpadeny.denied: "§e{player_name} §aHas rejected your tpa"
+
+#tpaccept
+tpaccept.usage: "§cuse: §e/tpaccept <player name>"
+tpaccept.notpa: "§cYou have no tpa from §e{player_name}"
+tpaccept.succes: "§aYou have successfully accepted the tpa from §e{player_name}"
+tpaccept.accepted: "§e{player_name} §ahas accepted your Tpa"
+tpaccept.expired: "§aThe tpa has already expired"
+
+#commandsettings
+tpacommand.description: "send a Player a tpa"
+tpacommand.aliases: []
+tpaherecommand.description: "send a Player a tpa here"
+tpaherecommand.aliases: []
+tpacceptcommand.description: "Accept a tpa"
+tpacceptcommand.aliases: []
+tpadenycommand.description: "deny a tpa"
+tpadenycommand.aliases: []

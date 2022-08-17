@@ -1,0 +1,15 @@
+name: Tpa
+version: 1.0.0
+api: 4.0.0
+main: tkm\tpa\Main
+author: TheKuhlMc
+
+permissions:
+  tpa.tpa.use:
+    default: true
+  tpa.tpaaccept.use:
+    default: true
+  tpa.tpadeny.use:
+    default: true
+  tpa.tpahere.use:
+    default: true
